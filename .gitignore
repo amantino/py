@@ -1,0 +1,20 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter autosaves
+.ipynb_checkpoints/
+
+# Ignore environment folders (like venv)
+env/
+venv/
+
+# Ignore secret stuff
+.env
+
+# Ignore macOS weird files
+.DS_Store
+
+# Ignore VSCode settings
+.vscode/
+
